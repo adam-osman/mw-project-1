@@ -110,8 +110,8 @@ body {
   width: 100%;
   height: 30px;
   background-image: url(http://jeremyabrahams.github.io/mw-project-1/img/mw-icon.png);
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: center;
   margin-top: 22px;
   }
 
