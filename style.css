@@ -7,11 +7,11 @@ body {
 }
 
 .header_banner {
-  background: url('http://jeremyabrahams.github.io/mw-project-1/img/hero.jpg');
+  background-image: url('http://jeremyabrahams.github.io/mw-project-1/img/hero.jpg');
   width: 100%;
   height: 640px;
   background-repeat: no repeat;
-  background-size: cover;
+  background-size: contain;
   }
 
 .header {
